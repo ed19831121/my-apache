@@ -1,0 +1,34 @@
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.17.0.2. Set the 'ServerName' directive globally to suppress this message
+[Wed Jul 19 01:54:48.720276 2017] [mpm_event:notice] [pid 1:tid 140266015836032] AH00489: Apache/2.4.27 (Unix) configured -- resuming normal operations
+[Wed Jul 19 01:54:48.720504 2017] [core:notice] [pid 1:tid 140266015836032] AH00094: Command line: 'httpd -D FOREGROUND'
+[Wed Jul 19 02:08:08.726381 2017] [mpm_event:notice] [pid 1:tid 140266015836032] AH00492: caught SIGWINCH, shutting down gracefully
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.17.0.2. Set the 'ServerName' directive globally to suppress this message
+[Wed Jul 19 02:08:46.126300 2017] [mpm_event:notice] [pid 1:tid 140703026919296] AH00489: Apache/2.4.27 (Unix) configured -- resuming normal operations
+[Wed Jul 19 02:08:46.126596 2017] [core:notice] [pid 1:tid 140703026919296] AH00094: Command line: 'httpd -D FOREGROUND'
+[Wed Jul 19 02:10:50.159073 2017] [mpm_event:notice] [pid 1:tid 140703026919296] AH00491: caught SIGTERM, shutting down
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.17.0.2. Set the 'ServerName' directive globally to suppress this message
+[Wed Jul 19 02:11:19.933325 2017] [mpm_event:notice] [pid 1:tid 139843868727168] AH00489: Apache/2.4.27 (Unix) configured -- resuming normal operations
+[Wed Jul 19 02:11:19.933547 2017] [core:notice] [pid 1:tid 139843868727168] AH00094: Command line: 'httpd -D FOREGROUND'
+[Wed Jul 19 02:12:03.404860 2017] [mpm_event:notice] [pid 1:tid 139843868727168] AH00491: caught SIGTERM, shutting down
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.17.0.2. Set the 'ServerName' directive globally to suppress this message
+[Wed Jul 19 02:12:14.533648 2017] [mpm_event:notice] [pid 1:tid 140426999875456] AH00489: Apache/2.4.27 (Unix) configured -- resuming normal operations
+[Wed Jul 19 02:12:14.533940 2017] [core:notice] [pid 1:tid 140426999875456] AH00094: Command line: 'httpd -D FOREGROUND'
+[Wed Jul 19 02:12:32.235555 2017] [mpm_event:notice] [pid 1:tid 140426999875456] AH00491: caught SIGTERM, shutting down
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.17.0.2. Set the 'ServerName' directive globally to suppress this message
+[Wed Jul 19 02:12:42.139946 2017] [mpm_event:notice] [pid 1:tid 139645490403200] AH00489: Apache/2.4.27 (Unix) configured -- resuming normal operations
+[Wed Jul 19 02:12:42.140181 2017] [core:notice] [pid 1:tid 139645490403200] AH00094: Command line: 'httpd -D FOREGROUND'
+[Wed Jul 19 02:15:03.045933 2017] [mpm_event:notice] [pid 1:tid 139645490403200] AH00491: caught SIGTERM, shutting down
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.17.0.2. Set the 'ServerName' directive globally to suppress this message
+[Wed Jul 19 02:23:33.235728 2017] [mpm_event:notice] [pid 1:tid 139929565431680] AH00489: Apache/2.4.27 (Unix) configured -- resuming normal operations
+[Wed Jul 19 02:23:33.236002 2017] [core:notice] [pid 1:tid 139929565431680] AH00094: Command line: 'httpd -D FOREGROUND'
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.17.0.3. Set the 'ServerName' directive globally to suppress this message
+[Wed Jul 19 02:24:45.484651 2017] [mpm_event:notice] [pid 1:tid 139791369537408] AH00489: Apache/2.4.27 (Unix) configured -- resuming normal operations
+[Wed Jul 19 02:24:45.484909 2017] [core:notice] [pid 1:tid 139791369537408] AH00094: Command line: 'httpd -D FOREGROUND'
+[Wed Jul 19 04:16:29.800704 2017] [core:error] [pid 1:tid 139929565431680] (2)No such file or directory: AH00095: failed to remove PID file /usr/local/apache2/logs/httpd.pid
+[Wed Jul 19 04:16:30.151414 2017] [mpm_event:notice] [pid 1:tid 139929565431680] AH00491: caught SIGTERM, shutting down
+[Wed Jul 19 04:16:29.799640 2017] [mpm_event:notice] [pid 1:tid 139791369537408] AH00491: caught SIGTERM, shutting down
+[Fri Jul 21 03:34:14.047848 2017] [mpm_event:notice] [pid 1:tid 140315040925568] AH00489: Apache/2.4.27 (Unix) configured -- resuming normal operations
+[Fri Jul 21 03:34:14.055649 2017] [core:notice] [pid 1:tid 140315040925568] AH00094: Command line: 'httpd -D FOREGROUND'
+[Fri Jul 21 04:11:36.538747 2017] [mpm_event:notice] [pid 1:tid 140315040925568] AH00491: caught SIGTERM, shutting down
+[Fri Jul 21 06:41:14.634246 2017] [mpm_event:notice] [pid 1:tid 140126946084736] AH00489: Apache/2.4.27 (Unix) configured -- resuming normal operations
+[Fri Jul 21 06:41:14.643629 2017] [core:notice] [pid 1:tid 140126946084736] AH00094: Command line: 'httpd -D FOREGROUND'
